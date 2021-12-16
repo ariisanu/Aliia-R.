@@ -1,0 +1,18 @@
+body{
+    margin: 0;
+    padding: 0;
+    background: url(nature.jpg) no-repeat;
+    background-size: cover;
+    text-align: center;
+    
+}
+.box{
+    width: 800px;
+    background: rgba(3);
+    padding: 50px;
+    text-align:center;
+    margin: 150px;
+    margin-top: 1%;
+    color:black;
+font-family: 'Century Gothic','Trebuchet MS', sans-serif
+}
